@@ -32,7 +32,7 @@ $(document).ready(function () {
 
     // typing animation script
     var typed = new Typed(".typing",{
-        strings: ["Coding","Exploring tech stacks","Data Science","Advanced in Python, Java, and JS"],
+        strings: ["Coder","Explorer","Future Data Scientist","Advanced in Python, Java, and JS Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
@@ -40,7 +40,7 @@ $(document).ready(function () {
         
     });
     var typed = new Typed(".typing-2",{
-        strings: ["Coding","Exploring tech stacks","Data Science","Advanced in Python, Java, and JS"],
+        strings: ["Coder","Explorer","Future Data Scientist","Advanced in Python, Java, and JS Programmer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true,
